@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Blake Han
-- 👀 I’m interested in open source contributions, web development, and data analysis.
-- 🌱 I’m currently learning Computer Science and Math at NYU
-- 💞️ I’m looking for an internship and to collaborate on any open source projects
+- 👀 I’m interested and experienced in infrastructure, full stack, and machine learning.
+- 🌱 I’m currently a senior studying Computer Science and Math at NYU
 - 📫 How to reach me byh2003@nyu.edu
 
 <!---
