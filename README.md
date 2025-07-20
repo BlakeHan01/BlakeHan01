@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Blake Han
-- 👀 I’m interested and experienced in infrastructure, full stack, and machine learning.
-- 🌱 I’m currently a senior studying Computer Science and Math at NYU
+- 👀 I’m interested and experienced in infrastructure, ML, and GenAI.
+- 🌱 I’m currently a SWE at Capital One, and I have a dual degree in Computer Science and Math from NYU
 - 📫 How to reach me byh2003@nyu.edu
 
 <!---
